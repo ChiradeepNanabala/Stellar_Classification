@@ -17,7 +17,7 @@ The Stellar Classification Dataset is an indispensable tool in the domain of ast
   - **GALAXY**: 59,445 data points (represented by 0)
   - **STAR**: 21,594 data points (represented by 1)
 - No missing values are present.
-- Outliers have been meticulously removed using the Local Outlier Factor (LOF) method from `sci-kit learn`.
+- Outliers have been meticulously removed using the Local Outlier Factor (LOF) method from `sklearn`.
 - Columns `'run_ID','rerun_ID','cam_col','field_ID','spec_obj_ID','fiber_ID','obj_ID'` were deemed unnecessary for analysis and hence removed.
 - Feature scaling was executed using MinMax scaling on all columns, excluding the 'class' column. This ensures values range between 0 and 1.
 
