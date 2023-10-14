@@ -10,6 +10,8 @@ The Stellar Classification Dataset is an indispensable tool in the domain of ast
 - **Features**: 18
 - **Data Points**: 100,000
 
+![image](https://github.com/chiradeep-nanabala/Stellar_Classification/assets/44319198/945066d7-ce84-44ce-82ae-c862e76221b0)
+
 ### Specifics:
 
 - Originally a three-class problem, this dataset has been simplified to binary classification, focusing only on "GALAXY" and "STAR" classes.
